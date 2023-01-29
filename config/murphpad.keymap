@@ -60,8 +60,8 @@
                 &bt BT_CLR	&kp HOME	&kp END		&kp PG_UP	&kp PG_DN   
                 &rgb_ug RGB_TOG	&kp KP_MINUS	&kp KP_MULTIPLY	&kp KP_DIVIDE	&kp KP_NUM    
                 &rgb_ug RGB_EFF	&kp KP_PLUS	&kp KP_N7	&kp KP_N8	&kp KP_N9  
-                &kp C_MUTE	&kp KP_PLUS	&kp KP_N6	&kp KP_N5	&kp KP_N4
-                &mo 1		&kp KP_ENTER	&kp KP_N3	&kp KP_N2	&kp KP_N1
+                &kp C_MUTE	&kp KP_PLUS	&kp KP_N4	&kp KP_N5	&kp KP_N6
+                &mo 1		&kp KP_ENTER	&kp KP_N1	&kp KP_N2	&kp KP_N3
                 &kp BSPC	&kp KP_ENTER	&kp KP_DOT	&kp KP_N0	&kp KP_N0
             >;
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
